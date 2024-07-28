@@ -1,4 +1,4 @@
-👨‍💻 Desenvolvedor Full Stack | Tech Lead | Arquiteto de Soluções
+👨‍💻 Desenvolvedor Full Stack
 
 Minha jornada na programação começou aos 14 anos, e desde então, sou apaixonado pela área. Profissionalmente, iniciei em 2013 e, desde então, tenho evoluído através de diversas tecnologias e projetos, sempre focado na inovação e na eficiência.
 
